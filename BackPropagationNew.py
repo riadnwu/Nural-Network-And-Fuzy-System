@@ -1,3 +1,8 @@
+'''
+Md. Riadul Islam
+06
+riadnwu@gmail.com
+'''
 from math import exp
 from random import uniform
 import numpy as np
